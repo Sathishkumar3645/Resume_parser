@@ -10,7 +10,7 @@ from prompt import interview_assistant_prompt
 
 genai.configure(api_key="")
 groq = OpenAI(
-    api_key="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",
+    api_key="",
     base_url="https://api.groq.com/openai/v1"
 )
 
